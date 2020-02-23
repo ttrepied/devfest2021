@@ -59,6 +59,9 @@ jobs:
       - name: Optimize HTML / JS / CSS
         run: npm run build:minify
 
+      - name: Optimize HTML / JS / CSS
+        run: cp .appengine/app.yaml public/
+
       # DEPLOY
 
       - name: Livraison ${{ steps.get_version.outputs.VERSION }}
@@ -68,7 +71,7 @@ jobs:
           APPLICATION_CREDENTIALS: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
           CLI: gcloud
         with:
-          args: app deploy --version ${{ steps.get_version.outputs.VERSION }} --quiet .appengine/app.yaml --no-promote
+          args: app deploy --version ${{ steps.get_version.outputs.VERSION }} --quiet public/app.yaml --no-promote
 
       - name: Slack Notification
         uses: rtCamp/action-slack-notify@v2.0.0
