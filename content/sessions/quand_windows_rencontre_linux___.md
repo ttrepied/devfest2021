@@ -1,5 +1,5 @@
 ---
-key: quand_windows_rencontre_linux...
+key: quand_windows_rencontre_linux___
 title: Quand Windows rencontre Linux...
 id: dOjFgXq9XWPIctlFH7Dq
 language: French

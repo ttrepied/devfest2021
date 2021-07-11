@@ -1,6 +1,6 @@
 ---
 key: >-
-  la_dette_ui___en_finir_avec_les_interfaces_jetables_et_concevoir_une_ui_durable__adaptable_et_structuree.
+  la_dette_ui___en_finir_avec_les_interfaces_jetables_et_concevoir_une_ui_durable__adaptable_et_structuree_
 title: >-
   La dette UI : en finir avec les interfaces jetables et concevoir une UI
   durable, adaptable et structurée.

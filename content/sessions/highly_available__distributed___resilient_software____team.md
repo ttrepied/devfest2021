@@ -1,5 +1,5 @@
 ---
-key: highly_available__distributed___resilient_software..._team
+key: highly_available__distributed___resilient_software____team
 title: Highly available, distributed & resilient software... team
 id: S6KTi1KPDcSnLClhpoCz
 language: French
