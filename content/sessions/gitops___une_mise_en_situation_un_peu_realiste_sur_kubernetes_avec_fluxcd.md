@@ -8,8 +8,8 @@ tags:
   - _cloud___devops
 complexity: Intermediate
 speakers:
-  - laurent_grangeau
   - ludovic_piot
+  - laurent_grangeau
 draft: false
 
 ---

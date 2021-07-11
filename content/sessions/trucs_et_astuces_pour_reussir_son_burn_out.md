@@ -8,8 +8,8 @@ tags:
   - _discovery
 complexity: Beginner
 speakers:
-  - julia_lehoux
   - cynthia_staebler
+  - julia_lehoux
 draft: false
 
 ---

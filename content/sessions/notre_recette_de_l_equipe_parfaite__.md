@@ -8,8 +8,8 @@ tags:
   - _discovery
 complexity: Beginner
 speakers:
-  - yvonnick_frin
   - estelle_landry__️
+  - yvonnick_frin
 draft: false
 
 ---

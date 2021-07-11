@@ -8,8 +8,8 @@ tags:
   - _cloud___devops
 complexity: Intermediate
 speakers:
-  - emeric_martineau
   - julien_haumont
+  - emeric_martineau
 draft: false
 
 ---

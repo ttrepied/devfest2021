@@ -8,8 +8,8 @@ tags:
   - _discovery
 complexity: Beginner
 speakers:
-  - pierre_tibulle
   - marc_dugue
+  - pierre_tibulle
   - sylvain_calmet
 draft: false
 

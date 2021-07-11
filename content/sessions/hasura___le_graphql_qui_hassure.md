@@ -8,8 +8,8 @@ tags:
   - _web
 complexity: Intermediate
 speakers:
-  - hugo_wood
   - valentin_cocaud
+  - hugo_wood
 draft: false
 
 ---

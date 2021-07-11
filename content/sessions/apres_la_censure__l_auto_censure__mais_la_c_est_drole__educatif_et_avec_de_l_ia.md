@@ -11,8 +11,8 @@ tags:
   - _bigdata___ai
 complexity: Beginner
 speakers:
-  - louis_tournayre
   - pierre_morvan
+  - louis_tournayre
 draft: false
 
 ---

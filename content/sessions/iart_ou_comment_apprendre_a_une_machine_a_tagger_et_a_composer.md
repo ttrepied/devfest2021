@@ -8,8 +8,8 @@ tags:
   - _bigdata___ai
 complexity: Beginner
 speakers:
-  - nicolas_greffard
   - alexandre_garel
+  - nicolas_greffard
 draft: false
 
 ---

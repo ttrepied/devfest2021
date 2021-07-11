@@ -8,8 +8,8 @@ tags:
   - _discovery
 complexity: Beginner
 speakers:
-  - jerome_lucas
   - ronan_robe
+  - jerome_lucas
 draft: false
 
 ---

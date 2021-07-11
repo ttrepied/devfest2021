@@ -8,8 +8,8 @@ tags:
   - _ux___ui
 complexity: Beginner
 speakers:
-  - sabrina_koessler
   - jade_chabaro
+  - sabrina_koessler
 draft: false
 
 ---
