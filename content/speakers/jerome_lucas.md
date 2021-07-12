@@ -9,7 +9,7 @@ city: Nantes, France
 photoUrl: https://digital4better.com/media/jerome_nb200.jpeg
 socials:
   - icon: twitter
-    link: https://twitter.com/https://twitter.com/jerome_lucas
+    link: https://twitter.com/jerome_lucas
     name: https://twitter.com/jerome_lucas
 
 ---

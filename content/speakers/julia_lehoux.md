@@ -9,7 +9,7 @@ photoUrl: >-
   https://lh3.googleusercontent.com/a-/AAuE7mDQ0ZEsybs2sgzP6pvzXoH37W-RFS_svGPs9-SYSA
 socials:
   - icon: twitter
-    link: https://twitter.com/https://twitter.com/julia_lehoux
+    link: https://twitter.com/julia_lehoux
     name: https://twitter.com/julia_lehoux
   - icon: github
     link: https://twitter.com/https://github.com/JuliaLehoux

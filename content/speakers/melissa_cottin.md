@@ -4,7 +4,7 @@ name: Mélissa Cottin
 id: OKnnqF5rvqaTZtyyv1ljWIcr74h1
 feature: false
 company: Association ESTIMnumérique
-companyLogo: /images/partners/association estimnumérique.png
+companyLogo: /images/partners/association_estimnumerique.png
 photoUrl: >-
   https://www.letelegramme.fr/images/2021/03/01/melissa-cottin-et-son-equipe-proposent-un-accompagnement_5558259.jpg
 socials:

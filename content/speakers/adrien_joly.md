@@ -10,7 +10,7 @@ photoUrl: >-
   https://lh3.googleusercontent.com/a-/AOh14GhG7DN6L_rNGvTUYA94gO8OmTITs_zpYCUjgwqRvOs
 socials:
   - icon: twitter
-    link: https://twitter.com/https://twitter.com/adrienjoly
+    link: https://twitter.com/adrienjoly
     name: https://twitter.com/adrienjoly
   - icon: github
     link: https://twitter.com/https://github.com/adrienjoly

@@ -4,7 +4,7 @@ name: Sébastien Charrier
 id: gc7UU76X8rPr0TlUxisWFi8deWD2
 feature: false
 company: bump.sh
-companyLogo: /images/partners/bump.sh.png
+companyLogo: /images/partners/bump_sh.png
 city: Angers, France
 photoUrl: https://avatars1.githubusercontent.com/u/30788?v=4
 socials:

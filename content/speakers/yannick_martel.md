@@ -4,7 +4,7 @@ name: Yannick Martel
 id: yvq7ZPxZkcbNJbLHyaeq8Nj4TQ52
 feature: false
 company: Code Lutin
-companyLogo: /images/partners/code lutin.png
+companyLogo: /images/partners/code_lutin.png
 city: Saint-Sébastien-sur-Loire, France
 photoUrl: https://avatars1.githubusercontent.com/u/10868277?v=4
 socials:
