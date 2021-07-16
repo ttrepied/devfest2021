@@ -5,7 +5,7 @@ id: QYeD36ff9h4A8v243Hu3
 language: French
 talkType: conference
 tags:
-  - _web
+  - web
 complexity: Beginner
 speakers:
   - mathieu_mure

@@ -5,7 +5,7 @@ id: UGqLdAl7PXdjJifAOwMN
 language: French
 talkType: codelab
 tags:
-  - _web
+  - web
 complexity: Beginner
 speakers:
   - stephanie_moallic

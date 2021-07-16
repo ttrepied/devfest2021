@@ -5,7 +5,7 @@ id: RfbzGnrRp0KSdsOFKBaW
 language: French
 talkType: quickie
 tags:
-  - _languages
+  - languages
 complexity: Intermediate
 speakers:
   - olivier_thierry

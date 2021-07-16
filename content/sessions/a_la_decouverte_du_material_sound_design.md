@@ -5,7 +5,7 @@ id: QRJFbprIsnguwZGlucPG
 language: Français
 talkType: quickie
 tags:
-  - _ux___ui
+  - ux-ui
 complexity: Beginner
 speakers:
   - colin_cleary

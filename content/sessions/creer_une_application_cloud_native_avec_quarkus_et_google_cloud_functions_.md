@@ -5,7 +5,7 @@ id: 8ZZfAzC37Vzsi8SUGFNR
 language: French
 talkType: conference
 tags:
-  - _cloud___devops
+  - cloud-devops
 complexity: Beginner
 speakers:
   - loic_mathieu

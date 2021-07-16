@@ -5,7 +5,7 @@ id: nT3MZqgRIO6e4fcFMwwo
 language: French
 talkType: conference
 tags:
-  - _cloud___devops
+  - cloud-devops
 complexity: Intermediate
 speakers:
   - valentin_deleplace

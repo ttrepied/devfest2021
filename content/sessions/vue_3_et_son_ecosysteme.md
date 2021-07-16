@@ -5,7 +5,7 @@ id: MXMZUEFiqCqp6nDGIG0Y
 language: French
 talkType: conference
 tags:
-  - _web
+  - web
 complexity: Intermediate
 speakers:
   - nicolas_frizzarin

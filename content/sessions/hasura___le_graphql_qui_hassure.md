@@ -5,7 +5,7 @@ id: UMYnlgARm8K5Yp3pWuGQ
 language: French
 talkType: conference
 tags:
-  - _web
+  - web
 complexity: Intermediate
 speakers:
   - valentin_cocaud

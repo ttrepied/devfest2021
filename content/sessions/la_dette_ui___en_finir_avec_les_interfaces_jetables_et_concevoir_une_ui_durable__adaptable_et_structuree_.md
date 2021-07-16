@@ -8,7 +8,7 @@ id: Rj7h36zQUFC31yQKnmHE
 language: French
 talkType: conference
 tags:
-  - _ux___ui
+  - ux-ui
 complexity: Beginner
 speakers:
   - loic_vanderschooten__

@@ -5,7 +5,7 @@ id: mTH1JtVF5Cd1kKZFV4MF
 language: French
 talkType: conference
 tags:
-  - _languages
+  - languages
 complexity: Beginner
 speakers:
   - francois_teychene

@@ -5,7 +5,7 @@ id: aDYKzJBN0iZe4oCKZsvn
 language: French
 talkType: conference
 tags:
-  - _discovery
+  - discovery
 complexity: Beginner
 speakers:
   - estelle_landry__️

@@ -5,7 +5,7 @@ id: kuHOQqhHPxOyO11yeFFx
 language: French
 talkType: codelab
 tags:
-  - _mobile___iot
+  - mobile-iot
 complexity: Intermediate
 speakers:
   - loic_ortola

@@ -8,7 +8,7 @@ id: u5HBCBnm19MZTKY8sC3i
 language: English
 talkType: conference
 tags:
-  - _bigdata___ai
+  - bigdata-ai
 complexity: Intermediate
 speakers:
   - giulia

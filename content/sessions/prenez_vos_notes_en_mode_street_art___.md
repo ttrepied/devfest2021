@@ -5,7 +5,7 @@ id: Cevp7DbLuKZDdbpilBlK
 language: French
 talkType: codelab
 tags:
-  - _discovery
+  - discovery
 complexity: Beginner
 speakers:
   - marc_dugue

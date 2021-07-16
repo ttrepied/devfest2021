@@ -5,7 +5,7 @@ id: EgEknCfDgsJLmGQdNfdd
 language: French
 talkType: conference
 tags:
-  - _languages
+  - languages
 complexity: Intermediate
 speakers:
   - jose_paumard

@@ -8,7 +8,7 @@ id: PhbXUlAY0bq0OlhGV8Ni
 language: French
 talkType: codelab
 tags:
-  - _web
+  - web
 complexity: Beginner
 speakers:
   - kevin_morin

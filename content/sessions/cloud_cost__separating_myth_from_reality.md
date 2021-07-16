@@ -5,7 +5,7 @@ id: NlCNIQNyqMADH7bu8Jw6
 language: French
 talkType: conference
 tags:
-  - _cloud___devops
+  - cloud-devops
 complexity: Beginner
 speakers:
   - chabane_refes

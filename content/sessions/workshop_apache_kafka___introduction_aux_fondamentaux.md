@@ -5,7 +5,7 @@ id: ckihQlKEifaH3GrkDRlQ
 language: French
 talkType: codelab
 tags:
-  - _bigdata___ai
+  - bigdata-ai
 complexity: Beginner
 speakers:
   - mickael_boixiere

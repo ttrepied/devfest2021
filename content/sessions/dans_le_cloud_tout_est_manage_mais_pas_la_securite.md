@@ -5,7 +5,7 @@ id: Pz47aSZygAzqvRySM3B9
 language: French
 talkType: conference
 tags:
-  - _security
+  - security
 complexity: Beginner
 speakers:
   - eric_briand

@@ -5,7 +5,7 @@ id: 3Fy5mDD7ZMlunYFtiBk0
 language: English
 talkType: conference
 tags:
-  - _web
+  - web
 complexity: Beginner
 speakers:
   - debbie_o_brien

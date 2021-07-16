@@ -5,7 +5,7 @@ id: 4oYmmpdXuicIEoFFS0Yu
 language: French
 talkType: quickie
 tags:
-  - _mobile___iot
+  - mobile-iot
 complexity: Beginner
 speakers:
   - stefan_cosquer

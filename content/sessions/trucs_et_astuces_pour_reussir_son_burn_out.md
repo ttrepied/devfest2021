@@ -5,7 +5,7 @@ id: g3p8t5Db1rMqLKLWkcl5
 language: French
 talkType: quickie
 tags:
-  - _discovery
+  - discovery
 complexity: Beginner
 speakers:
   - cynthia_staebler

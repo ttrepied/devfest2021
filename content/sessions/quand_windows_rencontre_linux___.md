@@ -5,7 +5,7 @@ id: dOjFgXq9XWPIctlFH7Dq
 language: French
 talkType: conference
 tags:
-  - _cloud___devops
+  - cloud-devops
 complexity: Intermediate
 speakers:
   - julien_haumont

@@ -5,7 +5,7 @@ id: JTONY4g8q1P7raJEfwrW
 language: French
 talkType: quickie
 tags:
-  - _discovery
+  - discovery
 complexity: Beginner
 speakers:
   - gregory_lecygne

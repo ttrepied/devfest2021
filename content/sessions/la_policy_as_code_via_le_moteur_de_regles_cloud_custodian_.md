@@ -5,7 +5,7 @@ id: fbepataVHAVPzhchIc5p
 language: French
 talkType: conference
 tags:
-  - _cloud___devops
+  - cloud-devops
 complexity: Intermediate
 speakers:
   - tanguy_combe

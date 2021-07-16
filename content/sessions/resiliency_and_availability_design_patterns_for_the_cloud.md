@@ -5,7 +5,7 @@ id: 7Jqe9aQWBC772lbpzeo8
 language: French
 talkType: conference
 tags:
-  - _cloud___devops
+  - cloud-devops
 complexity: Intermediate
 speakers:
   - sebastien_stormacq

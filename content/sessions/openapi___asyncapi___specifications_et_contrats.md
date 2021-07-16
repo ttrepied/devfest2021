@@ -5,7 +5,7 @@ id: BLeeHoP7KNseKPuIVRBo
 language: French
 talkType: quickie
 tags:
-  - _discovery
+  - discovery
 complexity: Beginner
 speakers:
   - sebastien_charrier

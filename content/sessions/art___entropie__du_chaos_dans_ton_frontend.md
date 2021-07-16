@@ -5,7 +5,7 @@ id: 1JCDNDDJZVMVPHgLqWap
 language: French
 talkType: conference
 tags:
-  - _web
+  - web
 complexity: Beginner
 speakers:
   - thibaud_courtoison

@@ -5,7 +5,7 @@ id: S6KTi1KPDcSnLClhpoCz
 language: French
 talkType: conference
 tags:
-  - _discovery
+  - discovery
 complexity: Intermediate
 speakers:
   - yohan_lasorsa

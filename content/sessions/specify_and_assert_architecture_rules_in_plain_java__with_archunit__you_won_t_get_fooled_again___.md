@@ -8,7 +8,7 @@ id: CAGCCFlFFYtTk0Vw5iO2
 language: French
 talkType: quickie
 tags:
-  - _languages
+  - languages
 complexity: Intermediate
 speakers:
   - romain_rochegude

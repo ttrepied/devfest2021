@@ -5,7 +5,7 @@ id: 7unYl9QDSt0IPvVjIMAN
 language: French
 talkType: conference
 tags:
-  - _bigdata___ai
+  - bigdata-ai
 complexity: Beginner
 speakers:
   - steve_houel

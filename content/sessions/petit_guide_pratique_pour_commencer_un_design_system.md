@@ -5,7 +5,7 @@ id: FOtf5DDjHiIwr16Zvkgb
 language: French
 talkType: conference
 tags:
-  - _ux___ui
+  - ux-ui
 complexity: Beginner
 speakers:
   - cecile_freyd_foucault

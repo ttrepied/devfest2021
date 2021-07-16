@@ -5,7 +5,7 @@ id: zbKCEA2wEQ8bHpbXGuoX
 language: French
 talkType: codelab
 tags:
-  - _ux___ui
+  - ux-ui
 complexity: Beginner
 speakers:
   - jade_chabaro

@@ -8,7 +8,7 @@ id: YQTAjgwk6xdeFnXQlM6t
 language: French
 talkType: quickie
 tags:
-  - _discovery
+  - discovery
 complexity: Beginner
 speakers:
   - flavien_normand

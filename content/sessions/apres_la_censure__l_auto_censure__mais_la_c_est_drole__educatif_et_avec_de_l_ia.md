@@ -8,7 +8,7 @@ id: JxRt5VDA2VZWmgFy7vDe
 language: French
 talkType: quickie
 tags:
-  - _bigdata___ai
+  - bigdata-ai
 complexity: Beginner
 speakers:
   - pierre_morvan

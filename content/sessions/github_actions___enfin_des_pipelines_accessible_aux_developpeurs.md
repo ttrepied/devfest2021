@@ -5,7 +5,7 @@ id: AxJqNXcFVYgRWAmriQk7
 language: French
 talkType: conference
 tags:
-  - _cloud___devops
+  - cloud-devops
 complexity: Beginner
 speakers:
   - antoine_meausoone

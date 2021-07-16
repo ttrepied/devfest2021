@@ -5,7 +5,7 @@ id: MDNGrCL9CRAAI1PViJ05
 language: French
 talkType: conference
 tags:
-  - _discovery
+  - discovery
 complexity: Beginner
 speakers:
   - ronan_robe

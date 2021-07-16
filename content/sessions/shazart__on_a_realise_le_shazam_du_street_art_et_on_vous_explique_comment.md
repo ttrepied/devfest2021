@@ -5,7 +5,7 @@ id: 8UnDFS4fuFMfVme5IjtH
 language: French
 talkType: conference
 tags:
-  - _web
+  - web
 complexity: Intermediate
 speakers:
   - benoit_maire

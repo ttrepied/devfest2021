@@ -5,7 +5,7 @@ id: Oi6vqafopLtgHyfhOx5r
 language: French
 talkType: conference
 tags:
-  - _bigdata___ai
+  - bigdata-ai
 complexity: Beginner
 speakers:
   - alexandre_garel

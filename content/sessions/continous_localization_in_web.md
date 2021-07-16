@@ -5,7 +5,7 @@ id: 4Uy8pH9sK9VLE89czh2R
 language: French
 talkType: conference
 tags:
-  - _web
+  - web
 complexity: Beginner
 speakers:
   - maxence_lefebvre

@@ -5,7 +5,7 @@ id: WlgjK29E5G7VGa3L91YZ
 language: French
 talkType: conference
 tags:
-  - _mobile___iot
+  - mobile-iot
 complexity: Beginner
 speakers:
   - julien_salvi

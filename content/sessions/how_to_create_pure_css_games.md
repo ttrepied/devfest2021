@@ -5,7 +5,7 @@ id: D3MO1nhPwK0TDAhJDFep
 language: English
 talkType: conference
 tags:
-  - _web
+  - web
 complexity: Advanced
 speakers:
   - elad_shechter

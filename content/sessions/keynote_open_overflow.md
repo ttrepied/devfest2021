@@ -3,7 +3,7 @@ key: keynote_open_overflow
 title: Keynote d'ouverture (overflow)
 format: keynote
 tags:
-  - keynote
+  - _keynote
 speakers: []
 ---
 [Keynote d'ouverture](../keynote_open)

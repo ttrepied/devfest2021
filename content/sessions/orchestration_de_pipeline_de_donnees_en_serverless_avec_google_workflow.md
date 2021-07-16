@@ -5,7 +5,7 @@ id: Uzmb4eeSgXNejRiM6apv
 language: French
 talkType: conference
 tags:
-  - _bigdata___ai
+  - bigdata-ai
 complexity: Intermediate
 speakers:
   - guillaume_blaquiere

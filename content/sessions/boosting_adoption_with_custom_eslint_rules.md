@@ -5,7 +5,7 @@ id: RdacP5v4f4ebQWi3tBPm
 language: English
 talkType: conference
 tags:
-  - _web
+  - web
 complexity: Intermediate
 speakers:
   - stanimira_vlaeva

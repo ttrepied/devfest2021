@@ -5,7 +5,7 @@ id: BOZEJYfHWsSh4Ls0gMCN
 language: Français
 talkType: codelab
 tags:
-  - _web
+  - web
 complexity: Beginner
 speakers:
   - anthony_le_goas

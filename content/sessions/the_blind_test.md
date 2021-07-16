@@ -5,7 +5,7 @@ id: nLfP4678o1ZaMYm2kJZB
 language: French
 talkType: conference
 tags:
-  - _discovery
+  - discovery
 complexity: Beginner
 speakers:
   - florent_leveque

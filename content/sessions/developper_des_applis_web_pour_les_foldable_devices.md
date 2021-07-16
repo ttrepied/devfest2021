@@ -5,7 +5,7 @@ id: 8K8KbQEJ9MCzLrUy7Z34
 language: French
 talkType: quickie
 tags:
-  - _web
+  - web
 complexity: Intermediate
 speakers:
   - olivier_leplus

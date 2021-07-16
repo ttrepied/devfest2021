@@ -5,7 +5,7 @@ id: oUiklze8jVIbkf8hyizO
 language: French
 talkType: conference
 tags:
-  - _web
+  - web
 complexity: Intermediate
 speakers:
   - nordwin_hoff

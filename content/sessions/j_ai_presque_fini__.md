@@ -5,7 +5,7 @@ id: WIq0BNZ6rLPt3NTCY3W6
 language: French
 talkType: quickie
 tags:
-  - _discovery
+  - discovery
 complexity: Intermediate
 speakers:
   - david_laize

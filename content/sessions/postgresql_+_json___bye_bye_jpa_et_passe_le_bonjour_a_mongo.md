@@ -5,7 +5,7 @@ id: yUtgGDeJyLq57mK86q9g
 language: français
 talkType: quickie
 tags:
-  - _discovery
+  - discovery
 complexity: Beginner
 speakers:
   - delegue_alexandre

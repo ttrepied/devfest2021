@@ -5,7 +5,7 @@ id: tGdvTZ5Xw7pPtjFsI6ua
 language: French
 talkType: conference
 tags:
-  - _cloud___devops
+  - cloud-devops
 complexity: Intermediate
 speakers:
   - philippe_antoine

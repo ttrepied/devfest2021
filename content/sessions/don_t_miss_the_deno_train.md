@@ -5,7 +5,7 @@ id: UCIBTgZdHnSfo9W2v6yp
 language: English
 talkType: conference
 tags:
-  - _discovery
+  - discovery
 complexity: Advanced
 speakers:
   - m4dz

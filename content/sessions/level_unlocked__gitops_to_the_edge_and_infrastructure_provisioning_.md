@@ -5,7 +5,7 @@ id: yxtxa4YJT5RzlF9GW3AX
 language: English
 talkType: conference
 tags:
-  - _cloud___devops
+  - cloud-devops
 complexity: Intermediate
 speakers:
   - katie_gamanji

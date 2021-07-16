@@ -5,7 +5,7 @@ id: vruvelMr5F0pvwjfj5AH
 language: French
 talkType: quickie
 tags:
-  - _languages
+  - languages
 complexity: Beginner
 speakers:
   - benoit_masson

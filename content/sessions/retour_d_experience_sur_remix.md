@@ -5,7 +5,7 @@ id: tJepq35rS2WGZXwdrJWf
 language: French
 talkType: conference
 tags:
-  - _web
+  - web
 complexity: Intermediate
 speakers:
   - benoit_averty

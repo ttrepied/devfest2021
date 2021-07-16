@@ -5,7 +5,7 @@ id: xLrCPHjoO1jxuV24bq9e
 language: French
 talkType: codelab
 tags:
-  - _discovery
+  - discovery
 complexity: Intermediate
 speakers:
   - william_bartlett

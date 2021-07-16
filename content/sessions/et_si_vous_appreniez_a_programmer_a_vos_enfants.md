@@ -5,7 +5,7 @@ id: WrZtDwv4787yOezTdrY8
 language: French
 talkType: conference
 tags:
-  - _discovery
+  - discovery
 complexity: Beginner
 speakers:
   - stephanie_moallic

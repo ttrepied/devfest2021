@@ -5,7 +5,7 @@ id: grExMwZ2uPDwi4m897vO
 language: French
 talkType: codelab
 tags:
-  - _cloud___devops
+  - cloud-devops
 complexity: Intermediate
 speakers:
   - ludovic_piot
