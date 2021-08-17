@@ -1,5 +1,5 @@
 ---
-key: keynote_open_overflow
+key: __keynote_open_overflow
 title: Keynote d'ouverture (overflow)
 format: keynote
 tags:

@@ -9,8 +9,8 @@ tags:
 complexity: Intermediate
 speakers:
   - antoine_lebel
-  - loic_ortola
   - francois_de_guibert
+  - loic_ortola
 draft: false
 
 ---

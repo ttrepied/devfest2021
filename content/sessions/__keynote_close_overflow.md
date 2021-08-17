@@ -1,5 +1,5 @@
 ---
-key: keynote_close_overflow
+key: __keynote_close_overflow
 title: Keynote de fermeture (overflow)
 format: keynote
 tags:

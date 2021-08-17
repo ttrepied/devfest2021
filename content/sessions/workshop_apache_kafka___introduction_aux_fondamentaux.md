@@ -8,8 +8,8 @@ tags:
   - bigdata-ai
 complexity: Beginner
 speakers:
-  - mickael_boixiere
   - adrien_wattez
+  - mickael_boixiere
 draft: false
 
 ---

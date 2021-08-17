@@ -144,7 +144,7 @@
         - slot: lunch-day-1
           talk: __lunch
         - slot: codelab-2-day-1
-          talk: a_la_decouverte_d_accelerate_
+          talk: a_la_decouverte_d_accelerate
         - slot: pause-4-day-1
           talk: __pause
         - slot: codelab-3-day-1

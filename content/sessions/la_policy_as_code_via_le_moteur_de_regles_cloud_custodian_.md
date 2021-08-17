@@ -8,8 +8,8 @@ tags:
   - cloud-devops
 complexity: Intermediate
 speakers:
-  - tanguy_combe
   - ismael_hommani
+  - tanguy_combe
 draft: false
 
 ---

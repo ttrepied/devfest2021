@@ -1,5 +1,5 @@
 ---
-key: keynote_close
+key: __keynote_close
 title: Keynote
 format: keynote
 tags:

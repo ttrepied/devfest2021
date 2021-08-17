@@ -8,8 +8,8 @@ tags:
   - cloud-devops
 complexity: Intermediate
 speakers:
-  - ludovic_piot
   - laurent_grangeau
+  - ludovic_piot
 draft: false
 
 ---

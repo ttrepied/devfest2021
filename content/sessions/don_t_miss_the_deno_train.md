@@ -8,7 +8,7 @@ tags:
   - discovery
 complexity: Advanced
 speakers:
-  - m4dz
+  - m4dz___
 draft: false
 
 ---

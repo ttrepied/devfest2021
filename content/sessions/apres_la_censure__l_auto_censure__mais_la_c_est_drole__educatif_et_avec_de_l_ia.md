@@ -11,8 +11,8 @@ tags:
   - bigdata-ai
 complexity: Beginner
 speakers:
-  - pierre_morvan
   - louis_tournayre
+  - pierre_morvan
 draft: false
 
 ---

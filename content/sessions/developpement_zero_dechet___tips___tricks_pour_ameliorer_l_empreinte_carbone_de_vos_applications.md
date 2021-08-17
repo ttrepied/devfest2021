@@ -11,9 +11,9 @@ tags:
   - web
 complexity: Beginner
 speakers:
-  - yannick_martel
-  - kevin_morin
   - cecilia_bossard
+  - kevin_morin
+  - yannick_martel
 draft: false
 
 ---

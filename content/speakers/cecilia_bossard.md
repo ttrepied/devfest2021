@@ -7,7 +7,7 @@ company: Code Lutin
 companyLogo: /images/partners/code_lutin.png
 city: Nantes, France
 photoUrl: >-
-  https://media-exp3.licdn.com/dms/image/C4E03AQEe_7qyFPtBhw/profile-displayphoto-shrink_800_800/0/1517689048090?e=1629331200&v=beta&t=EkjOVE2l9aXR5Z1C2QNLKyeU7VDyHo_yWAP4FK7pe6k
+  https://lh4.googleusercontent.com/-OSawFNoJIqE/AAAAAAAAAAI/AAAAAAAAIi8/7G0YQ-w-Luw/photo.jpg
 socials:
   - icon: twitter
     link: https://twitter.com/@ceciliaBossard
