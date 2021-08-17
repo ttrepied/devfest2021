@@ -4,7 +4,7 @@ name: m4dz 🥑🦄
 id: kl8dIow7hxP69iJO2VEcAqkwT9L2
 feature: false
 company: ‹div›RIOTS
-companyLogo: /images/partners/‹div›riots.png
+companyLogo: /images/partners/div_riots.svg
 city: Lyon, France
 photoUrl: https://avatars0.githubusercontent.com/u/471486?v=4
 socials:

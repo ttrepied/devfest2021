@@ -5,8 +5,8 @@
       slots:
         - slot: open-day-1
           talk: __open
-        - slot: keynote-open
-          talk: keynote_open
+        - slot: __keynote-open
+          talk: __keynote_open
         - slot: pause-1-day-1
           talk: __pause
         - slot: slot-1-day-1
@@ -67,8 +67,8 @@
           talk: a_la_decouverte_du_material_sound_design
     - room: room3
       slots:
-        - slot: keynote-open
-          talk: keynote_open_overflow
+        - slot: __keynote-open
+          talk: __keynote_open_overflow
         - slot: pause-1-day-1
           talk: __pause
         - slot: slot-1-day-1
@@ -184,8 +184,8 @@
           talk: trucs_et_astuces_pour_reussir_son_burn_out
         - slot: pause-6-day-2
           talk: __pause
-        - slot: keynote-close
-          talk: keynote_close
+        - slot: __keynote-close
+          talk: __keynote_close
     - room: room2
       slots: 
         - slot: slot-1-day-2
