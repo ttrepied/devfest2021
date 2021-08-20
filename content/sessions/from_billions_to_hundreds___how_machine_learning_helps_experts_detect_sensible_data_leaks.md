@@ -11,7 +11,7 @@ tags:
   - bigdata-ai
 complexity: Intermediate
 speakers:
-  - giulia
+  - giulia_bianchi
 draft: false
 
 ---

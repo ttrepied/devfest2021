@@ -1,6 +1,6 @@
 ---
-key: giulia
-name: Giulia
+key: giulia_bianchi
+name: Giulia Bianchi
 id: L8D80utZ9eRux6kBDVlPKxipc5J3
 feature: false
 company: CybelAngel
