@@ -5,7 +5,7 @@
       slots:
         - slot: open-day-1
           talk: __open
-        - slot: __keynote-open
+        - slot: keynote-open
           talk: __keynote_open
         - slot: pause-1-day-1
           talk: __pause
@@ -40,7 +40,7 @@
     - room: room2
       slots:
         - slot: slot-1-day-1
-          talk: orchestration_de_pipeline_de_donnees_en_serverless_avec_google_workflow
+          talk: simuler_160k_joueurs_avec_cloud_run
         - slot: pause-2-day-1
           talk: __pause
         - slot: slot-2-day-1
@@ -52,7 +52,7 @@
         - slot: pause-3-day-1
           talk: __pause
         - slot: slot-4-day-1
-          talk: simuler_160k_joueurs_avec_cloud_run
+          talk: orchestration_de_pipeline_de_donnees_en_serverless_avec_google_workflow
         - slot: pause-4-day-1
           talk: __pause
         - slot: slot-5-day-1
@@ -67,7 +67,7 @@
           talk: a_la_decouverte_du_material_sound_design
     - room: room3
       slots:
-        - slot: __keynote-open
+        - slot: keynote-open
           talk: __keynote_open_overflow
         - slot: pause-1-day-1
           talk: __pause
@@ -184,7 +184,7 @@
           talk: trucs_et_astuces_pour_reussir_son_burn_out
         - slot: pause-6-day-2
           talk: __pause
-        - slot: __keynote-close
+        - slot: keynote-close
           talk: __keynote_close
     - room: room2
       slots: 
