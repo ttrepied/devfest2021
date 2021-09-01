@@ -57,6 +57,10 @@ In La Cité des Congrès all areas are accessible for wheelchair users.
 
 {{% default-section class="attending travel primarydarker" %}}
 
+## Covid 19 sanitary measures
+
+This year, due to the the sanitary situation, some precautionary measures will be applied, including the verification of a european sanitary pass. All informations are available on this website: https://www.gouvernement.fr/en/coronavirus-covid-19
+
 ## How to get there?
 
 ### By train

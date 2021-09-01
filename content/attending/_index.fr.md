@@ -57,6 +57,11 @@ Le GDG Nantes s'efforce de rendre cet événement ouvert et accessible à tous, 
 
 {{% default-section class="attending travel primarydarker" %}}
 
+## Mesures sanitaires Covid 19
+
+Cette année, étant donné la situation sanitaire, des mesures de préventions seront appliquées conformément aux préconisations du gouvernement. Cela inclue la vérification du pass sanitaire. Toutes les informations sont disponibles sur ce site: https://www.gouvernement.fr/info-coronavirus
+
+
 ## Comment s'y rendre ?
 
 ### En train
