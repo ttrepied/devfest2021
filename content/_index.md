@@ -44,16 +44,19 @@ It is aimed at students, professionals or simply curious techies.
 
 <ul>
 <li><a href="https://www.billetweb.fr/devfest-Nantes" target="_blank">{{< ticket
+        soldOut="true"
         name="2 days ticket"
         starts="2021-09-07"
         ends="2021-10-01"
         price="110€" >}}</a></li>
 <li><a href="https://www.billetweb.fr/devfest-Nantes" target="_blank">{{< ticket
+        soldOut="true"
         name="1 day ticket"
         starts="2021-09-07"
         ends="2021-10-01"
         price="60€" >}}</a></li>
 <li><a href="https://www.billetweb.fr/devfest-Nantes" target="_blank">{{< ticket
+        soldOut="true"
         name="Reduced price"
         starts="2021-09-07"
         ends="2021-10-01"
