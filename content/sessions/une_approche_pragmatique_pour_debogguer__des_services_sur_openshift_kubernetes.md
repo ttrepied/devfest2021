@@ -9,6 +9,7 @@ tags:
 complexity: Intermediate
 speakers:
   - madou_coulibaly
+  - stevan_le_meur
 draft: false
 
 ---
