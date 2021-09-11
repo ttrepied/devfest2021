@@ -58,7 +58,7 @@ It is aimed at students, professionals or simply curious techies.
 <li><a href="https://www.billetweb.fr/devfest-Nantes" target="_blank">
         <div class="ticket">
                 <div class="ticket-name">
-                        <span>Convert to ticket</span>
+                        <span>Convert my voucher</span>
                         <span class="fake-input">ABC12</span>
                 </div>
         </div>
