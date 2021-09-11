@@ -57,7 +57,7 @@
   duration: 120
   row:
     start: 17
-    end: 24
+    end: 25
 - key: pause-3-day-1
   start: '14:50'
   duration: 20
@@ -171,8 +171,8 @@
   start: '13:00'
   duration: 120
   row:
-    start: 16
-    end: 22
+    start: 18
+    end: 26
 - key: slot-4-day-2
   start: '14:00'
   duration: 50
@@ -184,12 +184,12 @@
   duration: 20
   row:
     start: 21
-    end: 23
+    end: 22
 - key: slot-5-day-2
   start: '15:10'
   duration: 50
   row:
-    start: 23
+    start: 22
     end: 26
 - key: codelab-3-day-2
   start: '15:10'
@@ -202,34 +202,34 @@
   duration: 20
   row:
     start: 26
-    end: 28
+    end: 27
 - key: slot-6-day-2
   start: '16:20'
   duration: 20
   row:
-    start: 28
+    start: 27
     end: 30
 - key: pause-5-day-2
   start: '16:40'
   duration: 10
   row:
     start: 30
-    end: 32
+    end: 31
 - key: slot-7-day-2
   start: '16:50'
   duration: 20
   row:
-    start: 32
+    start: 31
     end: 34
 - key: pause-6-day-2
   start: '17:10'
   duration: 10
   row:
     start: 34
-    end: 36
+    end: 35
 - key: keynote-close
   start: '17:20'
   duration: 50
   row:
-    start: 36
+    start: 35
     end: 40
