@@ -128,7 +128,7 @@
     - room: room_codelab1
       slots:
         - slot: codelab-1-day-1
-          talk: gitops___une_mise_en_situation_un_peu_realiste_sur_kubernetes_avec_fluxcd
+          talk: prenez_vos_notes_en_mode_street_art___
         - slot: lunch-day-1
           talk: __lunch
         - slot: codelab-2-day-1
@@ -136,7 +136,7 @@
         - slot: pause-4-day-1
           talk: __pause
         - slot: codelab-3-day-1
-          talk: prenez_vos_notes_en_mode_street_art___
+          talk: gitops___une_mise_en_situation_un_peu_realiste_sur_kubernetes_avec_fluxcd
     - room: room_codelab2
       slots:
         - slot: codelab-1-day-1
