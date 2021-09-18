@@ -22,8 +22,8 @@
 - key: web
   name: "\U0001F30D Web"
   id: cf75cee3-5ee8-58de-ac77-6bb665a3463d
-- key: keynote
-  name: Keynote
+- key: __keynote_open
+  name: "🎉Stéréolux"
 - key: lunch
   name: Lunch
 - key: open
