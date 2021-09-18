@@ -24,7 +24,7 @@ It is aimed at students, professionals or simply curious techies.
 
 {{< youtube-section link="0TFyOHrIxoM" title="Teaser 2021" class="primarydarker" >}}
 
-<!--... 
+<!--... -->
 
 {{% home-speakers %}}
 
@@ -32,7 +32,8 @@ It is aimed at students, professionals or simply curious techies.
 
 {{< button-link label="See all speakers"
                 url="./speakers/"
-                icon="right" >}}
+                icon="right"
+                class="tertiary" >}}
 
 {{% /home-speakers %}}
 

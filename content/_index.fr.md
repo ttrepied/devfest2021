@@ -23,15 +23,16 @@ Le DevFest, ou 'Developer Festival', est une conférence technique destinée aux
 
 {{< youtube-section link="0TFyOHrIxoM" title="Teaser 2021" class="primarydarker" >}}
 
-<!-- ... 
+<!-- ... -->
 
-{{% home-speakers %}}
+{{% home-speakers class="secondary" %}}
 
 ## Conférenciers en vedette
 
 {{< button-link label="Voir tous les conférenciers"
                 url="./speakers/"
-                icon="right" >}}
+                icon="right"
+                class="tertiary" >}}
 
 {{% /home-speakers %}}
 
