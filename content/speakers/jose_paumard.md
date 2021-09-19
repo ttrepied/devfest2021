@@ -2,7 +2,7 @@
 key: jose_paumard
 name: José Paumard
 id: W7qtDjdq0lbENMfVCPp1skurwhB2
-feature: false
+feature: true
 company: Oracle
 companyLogo: /images/partners/oracle.png
 photoUrl: >-

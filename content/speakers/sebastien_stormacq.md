@@ -2,7 +2,7 @@
 key: sebastien_stormacq
 name: Sébastien Stormacq
 id: H8cF8TtdnNOzfzulJ0PXwYDSA382
-feature: false
+feature: true
 company: Amazon Web Services
 companyLogo: /images/partners/aws.png
 city: Paris, France

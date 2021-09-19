@@ -220,16 +220,16 @@
   duration: 20
   row:
     start: 31
-    end: 34
+    end: 35
 - key: pause-6-day-2
   start: '17:10'
   duration: 10
   row:
-    start: 34
-    end: 35
+    start: 35
+    end: 36
 - key: keynote-close
   start: '17:20'
   duration: 50
   row:
-    start: 35
+    start: 36
     end: 40
