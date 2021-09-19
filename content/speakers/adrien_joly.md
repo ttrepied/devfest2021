@@ -6,8 +6,7 @@ feature: false
 company: SHODO
 companyLogo: /images/partners/shodo.png
 city: Paris, France
-photoUrl: >-
-  https://lh3.googleusercontent.com/a-/AOh14GhG7DN6L_rNGvTUYA94gO8OmTITs_zpYCUjgwqRvOs
+photoUrl: https://adrienjoly.com/img/photo.jpg
 socials:
   - icon: twitter
     link: https://twitter.com/adrienjoly
