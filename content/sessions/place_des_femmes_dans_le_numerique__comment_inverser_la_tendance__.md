@@ -8,6 +8,7 @@ tags:
   - discovery
 complexity: Beginner
 speakers:
+  - arthur_tarroux
   - melissa_cottin
 draft: false
 

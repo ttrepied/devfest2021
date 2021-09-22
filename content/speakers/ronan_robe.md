@@ -1,11 +1,12 @@
 ---
 key: ronan_robe
-name: Ronan Robe
+name: Ronan ROBE
 id: jTv6N7TdmGcxaxXobK5XF5b9oWO2
 feature: false
+company: Digital4Better
+companyLogo: /images/partners/digital4better.png
 city: Nantes, France
-photoUrl: >-
-  https://lh3.googleusercontent.com/a-/AOh14Ggr_Jwhg8BB-QwpaHyQ6mHJPn1JMjQb51-6B1gDHrE=s96-c
+photoUrl: https://digital4better.com/media/ronan_nb200.jpeg
 socials:
   - icon: twitter
     link: https://twitter.com/RonanR01
@@ -13,4 +14,5 @@ socials:
 
 ---
 
-Cofondateur de DIgital4Better,  profil polyvalent
+Cofondateur de Digital4Better,  profil couteau suisse, expert en delivery de projets digitaux depuis 15ans.
+Membre du collectif Nantes Numérique Reponsable

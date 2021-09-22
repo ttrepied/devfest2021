@@ -24,7 +24,7 @@ It is aimed at students, professionals or simply curious techies.
 
 {{< youtube-section link="0TFyOHrIxoM" title="Teaser 2021" class="primarydarker" >}}
 
-<!--... 
+<!--... -->
 
 {{% home-speakers %}}
 
@@ -32,7 +32,8 @@ It is aimed at students, professionals or simply curious techies.
 
 {{< button-link label="See all speakers"
                 url="./speakers/"
-                icon="right" >}}
+                icon="right"
+                class="tertiary" >}}
 
 {{% /home-speakers %}}
 
@@ -55,13 +56,14 @@ It is aimed at students, professionals or simply curious techies.
         starts="2021-09-07"
         ends="2021-10-01"
         price="60€" >}}</a></li>
-<li><a href="https://www.billetweb.fr/devfest-Nantes" target="_blank">{{< ticket
-        soldOut="true"
-        name="Reduced price"
-        starts="2021-09-07"
-        ends="2021-10-01"
-        price="20€"
-        info="100 places" >}}</a></li>
+<li><a href="https://www.billetweb.fr/devfest-Nantes" target="_blank">
+        <div class="ticket">
+                <div class="ticket-name">
+                        <span>Convert my voucher</span>
+                        <span class="fake-input">ABC12</span>
+                </div>
+        </div>
+</a></li>
 </ul>
 
 <p class="caption">* Your two-days ticket (VAT included) gives you access to all conferences, coffee breaks, and lunch. Accommodation is NOT included in this price.</p>

@@ -3,6 +3,7 @@ key: __keynote_open
 title: Keynote
 format: keynote
 tags:
-  - _keynote
+  - __keynote_open
 speakers: []
 ---
+Avec Stéréolux !

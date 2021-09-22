@@ -13,4 +13,4 @@ draft: false
 
 ---
 
-needs more work but basically about how we do component driven development at Bit and how to architect your  components best so you can think and work in components and therefore reuse components and scale easier and faster
+How we do component driven development at Bit and how to architect your components best so you can think and work in components and therefore reuse components and scale easier and faster.
