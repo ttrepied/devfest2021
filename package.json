@@ -5,7 +5,7 @@
   "author": "Igor Laborie <ilaborie@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "hugo server -D",
+    "start": "hugo server -D --buildFuture",
     "build:images": "node tools/images.js",
     "build:icons": "node tools/icons.js",
     "build:styles": "node tools/styles.js",

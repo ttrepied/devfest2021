@@ -3,7 +3,7 @@ title: Quelques mots de OnePoint !
 image: /images/blog/onepoint.jpg
 date: 2021-10-07
 ---
-
+ 
 La gamification, ou l’art d’intégrer les jeux vidéo dans notre quotidien.
 
 Saviez-vous que, sans le savoir, nous avons un usage quotidien de la gamification ? Outre son utilisation habituelle (pour des systèmes applicatifs numériques), elle est utilisée dans d’autres disciplines au sein des entreprises : design, UX, conduite du changement et même dans les process agiles.
