@@ -3,6 +3,6 @@ title: Niji
 type: partner
 category: platinium
 website: 'https://www.niji.fr/'
-logo: /images/partners/niji.jpg
+logo: /images/partners/niji.png
 socials: []
 ---
