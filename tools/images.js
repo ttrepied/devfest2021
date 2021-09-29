@@ -25,19 +25,23 @@ imgs.forEach(files => {
 
 // Resize and convert
 const imagesFiles = [
-  { files: `static/images/album/**/*.*`, format: 'webp' },
-  { files: `static/images/backgrounds/*.*`, format: 'webp' },
-  { files: `static/images/blog/*.*`, format: 'webp' },
-  { files: `static/images/kids/*.*`, format: 'webp' },
-  { files: `static/images/konfetti/*.*`, format: 'webp' },
-  { files: `static/images/partners/**/*.*`, opt: { height: 180 }, format: 'webp' },
+  { files: `static/images/album/**/*.*`, format: "webp" },
+  { files: `static/images/backgrounds/*.*`, format: "webp" },
+  // { files: `static/images/blog/*.*`, format: 'webp' },
+  { files: `static/images/kids/*.*`, format: "webp" },
+  { files: `static/images/konfetti/*.*`, format: "webp" },
+  {
+    files: `static/images/partners/**/*.*`,
+    opt: { height: 180 },
+    format: "webp",
+  },
   // { files: `static/images/partners/**/*.svg`, format: 'png' },
   // { files: `static/images/partners/**/*.jpg`, format: 'png' },
-  { files: `static/images/team/*.*`, opt: { width: 150 }, format: 'webp' },
+  { files: `static/images/team/*.*`, opt: { width: 150 }, format: "webp" },
   // { files: `static/images/team/*.png`, format: 'jpg' },
-  { files: `static/images/wtf/*.*`, format: 'webp' },
-  { files: `static/images/*.jpg`, format: 'webp' },
-]
+  { files: `static/images/wtf/*.*`, format: "webp" },
+  { files: `static/images/*.jpg`, format: "webp" },
+];
 
 imagesFiles.forEach(({ files, opt, format }) => {
   logger.info(`Deal with ${files}: format: ${format}, with ${opt ? JSON.stringify(opt) : ''}`)
