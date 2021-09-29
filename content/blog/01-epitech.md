@@ -1,7 +1,7 @@
 ---
 title: Quelques mots d'Epitech !
 image: /images/blog/epitech.jpg
-date: 2021-09-29
+date: 2021-09-30
 ---
 
 Le crew d’Epitech Nantes est de nouveau présent pour l’édition 2021 du DevFest, organisé par le GDG de Nantes, dont le Directeur pédagogique, Aymeric Fouchault et le Directeur pédagogique adjoint Pierrick Guyard sont membres émérites.
