@@ -8,7 +8,7 @@ tags:
   - discovery
 complexity: Beginner
 speakers:
-  - gregory_lecygne
+  - thierry_trepied
   - wolfgang_goedel
 draft: false
 
